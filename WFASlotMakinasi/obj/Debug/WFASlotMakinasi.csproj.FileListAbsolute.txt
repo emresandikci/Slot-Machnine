@@ -1,0 +1,17 @@
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFASlotMakinasi\WFASlotMakinasi\bin\Debug\WFASlotMakinasi.exe
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFASlotMakinasi\WFASlotMakinasi\bin\Debug\WFASlotMakinasi.pdb
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.csprojResolveAssemblyReference.cache
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.Form1.resources
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.Properties.Resources.resources
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.csproj.GenerateResource.Cache
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.exe
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.pdb
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\bin\Debug\WFASlotMakinasi.exe
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\bin\Debug\WFASlotMakinasi.pdb
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.csprojResolveAssemblyReference.cache
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.Form1.resources
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.Properties.Resources.resources
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.csproj.GenerateResource.cache
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.csproj.CoreCompileInputs.cache
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.exe
+C:\Users\emresandikci\Desktop\WFASlotMakinasi\WFASlotMakinasi\obj\Debug\WFASlotMakinasi.pdb
